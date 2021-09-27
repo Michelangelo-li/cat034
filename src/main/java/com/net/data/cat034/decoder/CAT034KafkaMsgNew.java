@@ -5,7 +5,6 @@ package com.net.data.cat034.decoder;
 
 import lombok.AllArgsConstructor;
 
-
 @lombok.Data
 @AllArgsConstructor
 public class CAT034KafkaMsgNew {
